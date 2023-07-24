@@ -6,8 +6,8 @@ This application is a simple note-taking aide; write down your ideas, tasks, and
 
 #### Preview
 
-![Homepage](./public/assets/Screenshot%202023-07-24%20at%2012.48.09%20PM.png)
-![Note page](./public/assets/Screenshot%202023-07-24%20at%2012.48.24%20PM.png)
+![Homepage](./assets/Screenshot%202023-07-24%20at%2012.48.09%20PM.png)
+![Note page](./assets/Screenshot%202023-07-24%20at%2012.48.24%20PM.png)
 
 ## Table of Contents
 
