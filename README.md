@@ -28,7 +28,7 @@ To use this application, write down your ideas, tasks, and to-do's in the input 
 
 ## Credits
 
-The developer utilized tutoring available through the University of Denver's Full-Stack Coding Boot Camp for portions of the code; all other code was scripted by the repository owner (see Contact below for details).
+The developer utilized tutoring as well as source-code, available through the University of Denver's Full-Stack Coding Boot Camp for portions of the code; all other (non-source-)code was scripted by the repository owner (see Contact below for details).
 
 ## License
 
